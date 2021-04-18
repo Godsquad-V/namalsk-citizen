@@ -1,0 +1,1 @@
+# namalsk-citizen
