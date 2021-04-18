@@ -2,7 +2,7 @@
 <types>
   <!-- NAMALSK - WEAPONS - RIFLES -->
   <type name="AK74">
-    <nominal>2</nominal>
+    <nominal>3</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
     <min>1</min>
